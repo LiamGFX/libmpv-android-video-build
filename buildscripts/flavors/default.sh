@@ -222,6 +222,12 @@ cpuflags=
 	\
 	--enable-filter=overlay \
 	--enable-filter=equalizer \
+	--enable-filter=headphone \
+	--enable-filter=pan \
+	--enable-filter=amovie \
+	--enable-filter=anull \
+	--enable-filter=aresample \
+	--enable-filter=aformat \
 	\
 	--enable-protocol=async \
 	--enable-protocol=cache \
